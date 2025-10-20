@@ -1,0 +1,20 @@
+project/
+  raw/
+    photo/
+    video/
+  work/
+    sorted/
+      blue_team/
+      white_team/
+      games/
+      group/
+    music/
+    temp/
+  outputs/
+    draft_v1.mp4
+    final_export.mp4
+scripts/
+  cluster_photos.py
+  generate_sequence_list.py
+metadata.csv
+edit_timeline.edl
