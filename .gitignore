@@ -1,0 +1,6 @@
+# Project artifact directories
+logs/
+metadata/
+outputs/
+raw/
+work/
